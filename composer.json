@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "ad\\": "core",
+      "app\\": "app"
+    }
+  },
+  "require": {
+  }
+}

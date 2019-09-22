@@ -1,0 +1,33 @@
+form p{
+    margin: 5px;
+}
+.message{
+    margin-bottom: 20px;
+    float: right;
+    width: 100%;
+}
+.text, .email{
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.error {
+    color: red;
+    font-size: 11px;
+    display: none;
+}
+
+div.image{
+    float: left;
+    width: 7%;
+}
+
+div.title{
+    float: right;
+    width: 93%;
+    font-weight: 600;
+    margin: 35px 0px 35px 0px;
+}
+
+div.message{
+    display: none;
+}
